@@ -18,5 +18,6 @@ class Array2D {
 
     System.out.println( "Acceso a un elemento fuera de limites" );
     miArray[4][0] = 7;
+    miArray[1][3] = 7;
     }
   }
