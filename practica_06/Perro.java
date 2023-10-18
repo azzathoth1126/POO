@@ -6,5 +6,5 @@ public class Perro extends Animales {
 
 
 /**
- * Herencia con Animales.java
+ * Herencia con vivaAnimales.java
  */

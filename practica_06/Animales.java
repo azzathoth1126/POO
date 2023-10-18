@@ -3,3 +3,7 @@ public class Animales {
 	System.out.println("Creando un animalin");  
     }
 }
+
+/**
+ * Herencia con vivaAnimales.java
+ */
