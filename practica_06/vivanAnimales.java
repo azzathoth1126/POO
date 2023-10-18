@@ -1,8 +1,10 @@
 public class vivanAnimales {
     public static void main(String args[]){ 
-	Gato miGato = new Gato();
-	miGato.maulla();
-	Perro miPerro = new Perro();
-	miPerro.ladra();
+	Gato happy = new Gato();
+	happy.maulla();
+	Perro molly = new Perro();
+	molly.ladra();
+
+	molly.comer("Croquetas");
     }
 }
