@@ -5,3 +5,7 @@ public class AutomovilDeCarreras{
 	miMecanico.hazTalacha(this);
     }
 }
+
+/**
+ * Herencia con PruebaAuto.java
+ */
