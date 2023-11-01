@@ -7,7 +7,6 @@ public class InversorCadena{
 	
     for(int i=1; i<=variable; i++){
             arregloc[i-1]=s.charAt(variable-i); //Como va de 1 a 30 rompe el programa por eso el arregloc[i-1] en vez de arregloc[i]
-		String resultado = new String(arregloc); 	
 	}
     String resultado = new String(arregloc); 
     System.out.println("La cadena invertida es: "+resultado);
